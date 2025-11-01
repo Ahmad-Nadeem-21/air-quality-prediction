@@ -14,11 +14,6 @@ This project combines **exploratory data analysis (EDA)**, **feature engineering
 
 ---
 
-## 🖼️ Preview
-![App Screenshot](app_screenshot.png)
-
----
-
 ## 🧭 Overview
 
 Air quality is one of the most critical environmental health indicators.  
