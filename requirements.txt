@@ -1,0 +1,15 @@
+# Core 
+numpy
+pandas
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Web app
+streamlit
+
+# Optional
+plotly
