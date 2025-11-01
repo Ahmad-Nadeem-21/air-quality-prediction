@@ -48,8 +48,5 @@ python -m pip install --upgrade pip
 # 3️⃣ Install all required libraries
 pip install -r requirements.txt
 
-# 4️⃣ (Optional) Verify installation
-python -m pip list
-
-# 5️⃣ Run the Streamlit app 🚀
+# 4️⃣ Run the Streamlit app 🚀
 streamlit run app/streamlit_app.py
