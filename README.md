@@ -1,7 +1,22 @@
 # 🌫️ Air Quality Prediction Project
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 An end-to-end data science project analyzing urban air pollution data and predicting **air quality levels** using multiple machine learning models.  
 This project combines **exploratory data analysis (EDA)**, **feature engineering**, **model training**, and a **Streamlit web app** for interactive predictions.
+
+---
+
+## 🎯 Live Demo  
+👉 Try it here: [Air Quality Prediction App](https://air-quality-prediction-nsx5yxu9x7kf8qzpu3tkh8.streamlit.app/)
+
+---
+
+## 🖼️ Preview
+![App Screenshot](app_screenshot.png)
 
 ---
 
@@ -10,7 +25,7 @@ This project combines **exploratory data analysis (EDA)**, **feature engineering
 Air quality is one of the most critical environmental health indicators.  
 This project uses historical air pollution sensor data to classify the air quality category (e.g., *Good*, *Moderate*, *Poor*).
 
-The workflow includes:
+**Workflow:**
 1. Data cleaning and preprocessing  
 2. Exploratory Data Analysis (EDA)  
 3. Training and evaluating multiple ML models  
