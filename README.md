@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end data science project analyzing urban air pollution data and predicting **air quality levels** using multiple machine learning models.  
 This project combines **exploratory data analysis (EDA)**, **feature engineering**, **model training**, and a **Streamlit web app** for interactive predictions.
