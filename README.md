@@ -59,3 +59,13 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the Streamlit app 🚀
 streamlit run app/streamlit_app.py
+
+
+
+## 📹 Video Guide
+
+## 📹 Video Guide
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/iDnxw6EThe8" title="Air Quality Prediction Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
