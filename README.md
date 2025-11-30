@@ -65,8 +65,7 @@ streamlit run app/streamlit_app.py
 
 ## 📹 Video Guide
 
-[![Watch the video](https://img.youtube.com/vi/6Lb0b_S3h0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Lb0b_S3h0Y)
-
+[![Watch the video](https://img.youtube.com/vi/6Lb0b_S3h0Y/hqdefault.jpg)](https://youtu.be/6Lb0b_S3h0Y)
 
 
 
